@@ -1,3 +1,6 @@
+# Setting remove .htaccess file
+1. go open gulpfile.bable.js
+2. go to line 155 and put a // to comment out coppy htaccess
 # Link to Markdown Sources
 
 1. Step 1
